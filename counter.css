@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.counter{
+    background-color: black;
+    width: 40%;
+    color: white;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.count {
+    font-size: 70px;
+}
+
+button {
+        width: 70px;
+        height: 50px;
+        border-radius: 50px;
+    }; 
